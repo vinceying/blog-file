@@ -1,4 +1,5 @@
 # blog-file
 jsDelivr-blog-file
 # link
-Photo:https://cdn.jsdelivr.net/gh/vinceying/blog-file/photo/
+File: https://cdn.jsdelivr.net/gh/vinceying/blog-file@master/
+Photo: https://cdn.jsdelivr.net/gh/vinceying/blog-file/photo/
