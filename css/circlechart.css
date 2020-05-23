@@ -95,9 +95,6 @@
     }
 }
 
-
-/* 判断设备对应样式 */
-
 @media screen and (max-width: 960px) {
     #percent {
         width: 400px;
