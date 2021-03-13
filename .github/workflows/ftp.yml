@@ -11,7 +11,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: ftp://47.100.41.120:21
-        ftp-username: blog-file
+        ftp-server: ftp://42.192.249.51:21
+        ftp-username: file_vince_pub
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
